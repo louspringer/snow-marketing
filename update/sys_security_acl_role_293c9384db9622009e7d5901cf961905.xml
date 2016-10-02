@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-01 22:14:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>293c9384db9622009e7d5901cf961905</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_75719_marketing_marketing_event.x_75719_marketing_marketing_event_user</sys_name>

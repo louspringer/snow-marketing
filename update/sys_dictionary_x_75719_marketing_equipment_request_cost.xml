@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-01 22:31:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>e61f1fc4db9622009e7d5901cf9619e9</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f706d854dbd622009e7d5901cf961923</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Cost</sys_name>
         <sys_package display_value="Marketing Events Application" source="x_75719_marketing">c5bb1b84db9622009e7d5901cf96190f</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Marketing Events Application">c5bb1b84db9622009e7d5901cf96190f</sys_scope>
         <sys_update_name>sys_dictionary_x_75719_marketing_equipment_request_cost</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-10-01 22:31:35</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-10-02 02:27:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
