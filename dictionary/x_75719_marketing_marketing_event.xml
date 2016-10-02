@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Marketing Event" max_length="40" name="x_75719_marketing_marketing_event" type="collection">
+        <element label="Budget" max_length="40" name="budget" type="currency"/>
+        <element choice="1" label="City" max_length="40" name="city" type="choice">
+            <choice>
+                <element label="San Jose" sequence="0" value="San Jose"/>
+                <element label="Portland" sequence="1" value="Portland"/>
+                <element label="Sydney" sequence="2" value="Sydney"/>
+                <element label="Dallas" sequence="3" value="Dallas"/>
+                <element label="London" sequence="4" value="London"/>
+            </choice>
+        </element>
+        <element label="End date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Name" mandatory="true" max_length="80" name="name" type="string"/>
+        <element label="Sponsor" max_length="40" name="sponsor" type="string"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>
